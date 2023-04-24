@@ -1,0 +1,20 @@
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\bin\Debug\serial_datalogger.exe
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\bin\Debug\serial_datalogger.pdb
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.csproj.AssemblyReference.cache
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.Form1.resources
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.Properties.Resources.resources
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.csproj.GenerateResource.cache
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.csproj.CoreCompileInputs.cache
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.exe
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.pdb
+G:\myWorkspace\Ecoys\DesktopDev\WinForms in dotnet 3.0frame\seriallogger-splitdata\serialsplitdata\serial_datalogger\bin\Debug\serial_datalogger.exe.config
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\bin\Debug\serial_datalogger.exe.config
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\bin\Debug\serial_datalogger.exe
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\bin\Debug\serial_datalogger.pdb
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.Form1.resources
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.Properties.Resources.resources
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.csproj.GenerateResource.cache
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.exe
+C:\Users\user\Desktop\seriallooger8feb2023working\seriallogger-splitdata\serialsplitdata\serial_datalogger\obj\Debug\serial_datalogger.pdb
