@@ -362,6 +362,7 @@ namespace serial_datalogger
             if(string.IsNullOrWhiteSpace(txt_filename.Text))
             {
                 MessageBox.Show("Please Enter file name");
+                MessageBox.Show("Please Enter file name");
                 return;
             }
             generateWord();
